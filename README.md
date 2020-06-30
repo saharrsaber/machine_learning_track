@@ -8,5 +8,5 @@ The track contains 23 courses (~93 hours). Each link redirects you to the course
 3. Linear Classifiers in Python
 4. Machine Learning with Tree-Based Models in Python
 5. Extreme Gradient Boosting with XGBoost
-6. Cluster Analysis in Python
+6. [Cluster Analysis in Python](https://github.com/saharrsaber/machine_learning_track/blob/master/Cluster%20Analysis%20in%20Python.ipynb)
 7. Dimensionality Reduction in Python
